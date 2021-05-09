@@ -1,0 +1,25 @@
+{
+  "name": "AuthenticationAPI",
+  "version": "1.0.0",
+  "description": "Implementation of authentication API using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basant-kumar/AuthenticationAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basant-kumar/AuthenticationAPI/issues"
+  },
+  "homepage": "https://github.com/basant-kumar/AuthenticationAPI#readme",
+  "dependencies": {
+    "dotenv": "^9.0.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
